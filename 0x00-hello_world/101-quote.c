@@ -1,5 +1,3 @@
-es (10 sloc)  187 Bytes
-
 #include <unistd.h>
 
 /**
