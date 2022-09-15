@@ -9,5 +9,4 @@ int _isdigit(int num)
 {
 	return (num >= '0' && num <= '9');
 }
-Footer
-© 2022 GitHub, Inc.
+
